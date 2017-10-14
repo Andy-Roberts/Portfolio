@@ -13,13 +13,21 @@ body{
 #navbar{
     height:60px;
     width: 100%;
+<<<<<<< HEAD
     background-color: #031926 ;
+=======
+    background-color: #4c5b61 ;
+>>>>>>> master
     position: fixed;
     top:0;
 }
 
 a{
+<<<<<<< HEAD
     color: #c5c5c5;
+=======
+    color: #031926;
+>>>>>>> master
 }
 
 li {
@@ -30,7 +38,11 @@ li {
 
 #navcontainer{
     float:right;
+<<<<<<< HEAD
     background-color: #031926;
+=======
+    background-color: #4c5b61;
+>>>>>>> master
    
     
 }
@@ -41,7 +53,11 @@ li {
     padding 5px;
     font-size: 35px;
     font-family: 'Italianno', cursive;
+<<<<<<< HEAD
     color: #c5c5c5;
+=======
+    color: #031926;
+>>>>>>> master
 }
 
 
