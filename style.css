@@ -16,6 +16,8 @@ body{
     background-color: grey ;
     position: fixed;
     top:0;
+
+
 }
 
 li {
@@ -35,8 +37,12 @@ li {
     float: left;
     margin: 10px 10px 10px 110px;
     padding 5px;
-    
+    font-size: 35px;
+        font-family: 'Italianno', cursive;
 }
+
+
+
 
 ul {
      margin-right: 10px;
