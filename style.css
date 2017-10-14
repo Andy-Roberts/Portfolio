@@ -13,11 +13,13 @@ body{
 #navbar{
     height:60px;
     width: 100%;
-    background-color: grey ;
+    background-color: #4c5b61 ;
     position: fixed;
     top:0;
+}
 
-
+a{
+    color: #031926;
 }
 
 li {
@@ -28,7 +30,7 @@ li {
 
 #navcontainer{
     float:right;
-    background-color: grey;
+    background-color: #4c5b61;
    
     
 }
@@ -38,7 +40,8 @@ li {
     margin: 10px 10px 10px 110px;
     padding 5px;
     font-size: 35px;
-        font-family: 'Italianno', cursive;
+    font-family: 'Italianno', cursive;
+    color: #031926;
 }
 
 
@@ -50,7 +53,7 @@ ul {
 
 #biocontainer{
     width: 100%;
-    background-color: rgba(14, 15, 15, 0.9);
+    background-color: rgba(3, 25, 38, 0.9);
     margin-bottom:200px;
     padding: 20px 0px;
     
@@ -58,7 +61,7 @@ ul {
 
 #biocontainer *{
     text-align: center;
-    color: white;
+    color: #c5c5c5;
 }
 
 
@@ -74,12 +77,12 @@ ul {
     background-color: blueviolet;
     margin-bottom: 200px;
     padding: 20px 0px;
-    background-color: rgba(14, 15, 15, 0.9);
+    background-color: rgba(3, 25, 38, 0.9);
 }
 
 #skillscontainer *{
     text-align: center;
-    color: white;
+    color: #c5c5c5;
 }
 
 table{
@@ -113,12 +116,12 @@ tr{
     background-color: cadetblue;
     margin-bottom: 200px;
     padding: 20px 0px;
-    background-color: rgba(14, 15, 15, 0.9);
+    background-color: rgba(3, 25, 38, 0.9);
 }
 
 #projectshead *{
     text-align: center;
-    color: white;
+    color: #c5c5c5;
 }
 
 #projectstable img{
@@ -130,17 +133,17 @@ tr{
 
 #projectstable td{
     text-align: center;
-    color: white;
+    color: #c5c5c5;
 }
 #contactcontainer{
    background-color: burlywood;
     padding: 20px 0px;
-    background-color: rgba(14, 15, 15, 0.9);
+    background-color: rgba(3, 25, 38, 0.9);
 }
 
 #contactcontainer *{
     text-align: center;
-    color: white;
+    color: #c5c5c5;
 }
 
 #footer{
@@ -148,5 +151,5 @@ tr{
     text-align: right
     }
 #footer p{
-    color: white;
+    color: #c5c5c5;
 }
