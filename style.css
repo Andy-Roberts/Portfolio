@@ -1,0 +1,146 @@
+#maincontainer{
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/0b/3b/d6/0b3bd6c3dd9477bf70c54db34a718ecc.gif");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+body{
+    margin: 0;
+}
+#maincontainer{
+    margin-top: 60px;
+}
+#navbar{
+    height:60px;
+    width: 100%;
+    background-color: grey ;
+    position: fixed;
+    top:0;
+}
+
+li {
+    display: inline-block;
+    margin: 5px;
+    padding 5px;
+}
+
+#navcontainer{
+    float:right;
+    background-color: grey;
+   
+    
+}
+
+#navheading{
+    float: left;
+    margin: 10px 10px 10px 110px;
+    padding 5px;
+    
+}
+
+ul {
+     margin-right: 10px;
+}
+
+#biocontainer{
+    width: 100%;
+    background-color: rgba(14, 15, 15, 0.9);
+    margin-bottom:200px;
+    padding: 20px 0px;
+    
+}
+
+#biocontainer *{
+    text-align: center;
+    color: white;
+}
+
+
+#biocontainer img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 150px;
+}
+
+
+#skillscontainer{
+    background-color: blueviolet;
+    margin-bottom: 200px;
+    padding: 20px 0px;
+    background-color: rgba(14, 15, 15, 0.9);
+}
+
+#skillscontainer *{
+    text-align: center;
+    color: white;
+}
+
+table{
+    table-layout: fixed;
+}
+
+
+
+#skillscontainer td p {
+    width: 150px;
+}
+
+#skillscontainer td {
+    background-color: azure;
+    border-radius: 5px;
+    padding:10px;
+}
+
+tr{
+
+}
+
+#skillscontainer table{
+    margin-left:auto; 
+    margin-right:auto;
+    border-spacing: 100px 20px;
+    
+}
+
+#projectscontainer{
+    background-color: cadetblue;
+    margin-bottom: 200px;
+    padding: 20px 0px;
+    background-color: rgba(14, 15, 15, 0.9);
+}
+
+#projectshead *{
+    text-align: center;
+    color: white;
+}
+
+#projectstable img{
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#projectstable td{
+    text-align: center;
+    color: white;
+}
+#contactcontainer{
+   background-color: burlywood;
+    padding: 20px 0px;
+    background-color: rgba(14, 15, 15, 0.9);
+}
+
+#contactcontainer *{
+    text-align: center;
+    color: white;
+}
+
+#footer{
+    margin-bottom:-13px;
+    text-align: right
+    }
+#footer p{
+    color: white;
+}
