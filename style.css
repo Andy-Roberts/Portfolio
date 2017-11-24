@@ -1,8 +1,11 @@
 #maincontainer{
-    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/0b/3b/d6/0b3bd6c3dd9477bf70c54db34a718ecc.gif");
+    background-image: url("https://media.giphy.com/media/l0CLUqAdAMmiXIlBC/giphy.gif");
     background-attachment: fixed;
     background-size: cover;
 }
+
+/*https://media.giphy.com/media/l0CLUqAdAMmiXIlBC/giphy.gif
+https://media.giphy.com/media/xT0xellfrR6j5p44GQ/giphy.gif */
 
 body{
     margin: 0;
@@ -67,7 +70,8 @@ ul {
     display: block;
     margin-left: auto;
     margin-right: auto; 
-    height: 150px;
+    height: 250px;
+    border-radius:100px;
 }
 
 
